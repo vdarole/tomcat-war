@@ -25,7 +25,7 @@
         <p>Today is <%= new Date() %>, and we're thrilled to have you here!</p>
         <p>Congratulations on successfully deploying the tomcat-war repository. Your efforts have paid off great job!</p>
         <p>Explore our site for more resources, updates, and community support to help you on your tech journey. We're excited to see what you will achieve next!</p>
-        <p> GIT Publish Date: 16 Dec 2025 10:39 </p>
+        <p> GIT Publish Date: 26 Dec 2025 21:29 </p>
         <p> Project </p>
     </div>
 </body>
